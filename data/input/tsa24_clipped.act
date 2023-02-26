@@ -1,6 +1,6 @@
 *ACTION cc Y clearcut harvest
 *OPERABLE cc
-? 1 ? ? ? _AGE >= 40 AND _AGE <= 999
+? 1 ? ? ? _AGE >= 80 AND _AGE <= 500
 *ACTION f11 N fertilize once at age 10
 *OPERABLE f11
 ? 1 ? ? unfertilized _AGE >= 10 AND _AGE <= 10
